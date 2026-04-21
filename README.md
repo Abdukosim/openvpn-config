@@ -4,6 +4,7 @@ Debian 12 da OpenVPN server o'rnatish va boshqarish uchun skriptlar to'plami.
 NAT orqasida ishlaydi (Kerio Control yoki boshqa firewall).
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Foydali buyruqlar
 bash# Service holati
 systemctl status openvpn-server@server
