@@ -36,7 +36,7 @@ set_var EASYRSA_REQ_COUNTRY    "UZ"
 set_var EASYRSA_REQ_PROVINCE   "Tashkent"
 set_var EASYRSA_REQ_CITY       "Tashkent"
 set_var EASYRSA_REQ_ORG        "Private"
-set_var EASYRSA_REQ_EMAIL      "admin@achg.uz"
+set_var EASYRSA_REQ_EMAIL      "admin@test.uz"
 set_var EASYRSA_REQ_OU         "IT"
 set_var EASYRSA_CA_EXPIRE      3650
 set_var EASYRSA_CERT_EXPIRE    825
